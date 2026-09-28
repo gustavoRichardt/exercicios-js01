@@ -1,0 +1,9 @@
+let carro = {
+    marca: "Wolkswagen",
+    modelo: "Nivus",
+    ano: 2023
+}
+
+getIdade(
+    2026
+)
